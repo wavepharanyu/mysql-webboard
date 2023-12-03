@@ -1,0 +1,25 @@
+.detail-container{
+    border: 1px solid cadetblue;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin: 3rem 0;
+}
+
+.detail-title{
+    margin: 0 0 0 0;
+    border-bottom: 1px solid lightgray;
+}
+
+.detail-subtitle{
+    color: grey;
+    font-size: 1.2rem;
+}
+
+.detail-content{
+    margin: 3rem 0;
+    font-size: 1.2rem;
+}
+
+.detail-underline{
+    border-style: dashed;
+}
